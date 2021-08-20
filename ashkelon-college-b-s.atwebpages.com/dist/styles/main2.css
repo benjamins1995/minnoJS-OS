@@ -1,0 +1,55 @@
+[piq-page] > ol {
+    margin: 15px;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+[piq-page] {
+
+    margin-top: 12px;
+    background-color: #fff;
+    border: 1px solid #dadce0;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+    padding-top: 22px;
+    position: relative;
+
+}
+
+[piq-page] {
+
+    margin-top: 12px;
+    background-color: #fff;
+    border: 1px solid #dadce0;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+    padding-top: 22px;
+    position: relative;
+
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /*direction: rtl*/
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #333333;
+    background-color: #fff;
+    direction: rtl;
+    float: contour;
+}
+
+.m2 .freebirdFormviewerViewHeaderHeader {
+    margin-top: 12px;
+    background-color: #fff;
+    border: 1px solid #dadce0;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+    padding-top: 22px;
+    position: relative;
+}
