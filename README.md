@@ -2,6 +2,6 @@
 
 My Final Project 'minnoJS'   (open source)
 
-Youtube video that shows How its Working --> https://youtu.be/TJngfx1qV1g
+Youtube [video](https://youtu.be/TJngfx1qV1g) that shows How its Working
 
 Link: http://minnojs-ashkelon.epizy.com/
