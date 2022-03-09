@@ -2,7 +2,7 @@
 
 Youtube [video](https://youtu.be/TJngfx1qV1g) that shows How its Working
 
-[> One More Link that Shows the Research](http://minnojs-ashkelon.epizy.com)
+[> Demo Link](http://minnojs-ashkelon.epizy.com)
 
 I have built this project for the Department of Criminology at the Ashkelon Academic College, as part of my final project This is a questionnaire that researchers bias according to time response.
 
